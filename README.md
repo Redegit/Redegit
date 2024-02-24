@@ -1,4 +1,4 @@
-## Hello there<img style="display: inline;height: 1.5em;margin: auto .5em;" src="./img/webp/helloThere.webp">
+## Hello there<img height="20" width="20" style="display: inline;height: 1.5em;margin: auto .5em;" src="./img/webp/helloThere.webp">
 My name is Dmitry and I am a software developer and data analyst. Also love machine learning and all stuff related to AI
 ## About me
 ### Strengths
