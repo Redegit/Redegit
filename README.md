@@ -21,7 +21,7 @@ My name is Dmitry and I am a software developer and data analyst. Also love mach
 #### <img width="24" height="24" style="display: inline; vertical-align: middle; margin: 0em .5em 0 .5em;" src="./img/webp/happiness.webp" /> Making people’s lives better
 
 ## Languages and tools
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy" /><img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas" /><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=fff" /><img src="https://img.shields.io/badge/dask-FDA061?style=for-the-badge&logo=dask&logoColor=000" /><img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=fff" /><img src="https://img.shields.io/badge/cytoscape-F7DF1E?style=for-the-badge&logo=cytoscapedotjs&logoColor=000" /><img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=fff" />
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy" /><img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas" /><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=fff" /><img src="https://img.shields.io/badge/dask-FDA061?style=for-the-badge&logo=dask&logoColor=000" /><img src="https://img.shields.io/badge/pyspark-fff?style=for-the-badge&logo=apachespark&logoColor=#E25A1C" /><img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=fff" /><img src="https://img.shields.io/badge/cytoscape-F7DF1E?style=for-the-badge&logo=cytoscapedotjs&logoColor=000" /><img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=fff" />
 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /><img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" /><img src="https://img.shields.io/badge/maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white" />
 
@@ -30,7 +30,10 @@ My name is Dmitry and I am a software developer and data analyst. Also love mach
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /><img src="https://img.shields.io/badge/SQLite-2d00c2?style=for-the-badge&logo=SQLite&logoColor=white" /><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" /><img src="https://img.shields.io/badge/oracle_sql-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000" /><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000" /><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /><img src="https://img.shields.io/badge/docker-fff?style=for-the-badge&logo=docker" />
+
+## Currently learning
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
 ## Currently learning
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /><img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
