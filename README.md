@@ -3,7 +3,7 @@ My name is Dmitry and I am a software developer and data analyst. Also love mach
 ## About me
 ### Strengths
 
-#### <img style="display: inline; vertical-align: middle; height: 2.5em;margin: 0em .5em 0 .5em;" src="./img/webp/web.webp" /> Backend, frontend
+#### <img width="40" height="40" style="display: inline; vertical-align: middle;margin: 0em .5em 0 .5em;" src="./img/webp/web.webp" /> Backend, frontend
 
 #### <img style="display: inline; vertical-align: middle; height: 2.5em;margin: 0em .5em 0 .5em;" src="./img/webp/dataanalysis.webp" /> Data analysis
 
