@@ -3,22 +3,22 @@ My name is Dmitry and I am a software developer and data analyst. Also love mach
 ## About me
 ### Strengths
 
-#### <img width="1em" height="1em" style="display: inline; vertical-align: middle;margin: 0em .5em 0 .5em;" src="./img/webp/web.webp" /> Backend, frontend
+#### <img width="24" height="24" style="display: inline; vertical-align: middle;margin: 0em .5em 0 .5em;" src="./img/webp/web.webp" /> Backend, frontend
 
-#### <img style="display: inline; vertical-align: middle; height: 2.5em;margin: 0em .5em 0 .5em;" src="./img/webp/dataanalysis.webp" /> Data analysis
+#### <img width="24" height="24" style="display: inline; vertical-align: middle; margin: 0em .5em 0 .5em;" src="./img/webp/dataanalysis.webp" /> Data analysis
 
-#### <img style="display: inline; vertical-align: middle; height: 2.5em;margin: 0em .5em 0 .5em;" src="./img/webp/database.webp" /> Database developing
+#### <img width="24" height="24" style="display: inline; vertical-align: middle; margin: 0em .5em 0 .5em;" src="./img/webp/database.webp" /> Database developing
 
-#### <img style="display: inline; vertical-align: middle; height: 2.5em;margin: 0em .5em 0 .5em;" src="./img/webp/softskills.webp" /> Soft skills
+#### <img width="24" height="24" style="display: inline; vertical-align: middle; margin: 0em .5em 0 .5em;" src="./img/webp/softskills.webp" /> Soft skills
 
 ### Hobbies
-#### <img style="display: inline; vertical-align: middle; height: 2.5em;margin: 0em .5em 0 .5em;" src="./img/webp/gaming.webp" /> Video games (mostly strategy)
+#### <img width="24" height="24" style="display: inline; vertical-align: middle; margin: 0em .5em 0 .5em;" src="./img/webp/gaming.webp" /> Video games (mostly strategy)
 
-#### <img style="display: inline; vertical-align: middle; height: 2.5em;margin: 0em .5em 0 .5em;" src="./img/webp/teaching.webp" /> Teaching (preparing children for state exams in computer science)
+#### <img width="24" height="24" style="display: inline; vertical-align: middle; margin: 0em .5em 0 .5em;" src="./img/webp/teaching.webp" /> Teaching (preparing children for state exams in computer science)
 
-#### <img style="display: inline; vertical-align: middle; height: 2.5em;margin: 0em .5em 0 .5em;" src="./img/webp/reading.webp" /> Reading (sci-fi, fantasy, documentation...)
+#### <img width="24" height="24" style="display: inline; vertical-align: middle; margin: 0em .5em 0 .5em;" src="./img/webp/reading.webp" /> Reading (sci-fi, fantasy, documentation...)
 
-#### <img style="display: inline; vertical-align: middle; height: 2.5em;margin: 0em .5em 0 .5em;" src="./img/webp/happiness.webp" /> Making people’s lives better
+#### <img width="24" height="24" style="display: inline; vertical-align: middle; margin: 0em .5em 0 .5em;" src="./img/webp/happiness.webp" /> Making people’s lives better
 
 ## Languages and tools
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /><img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy" /><img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas" /><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=fff" /><img src="https://img.shields.io/badge/dask-FDA061?style=for-the-badge&logo=dask&logoColor=000" /><img src="https://img.shields.io/badge/plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=fff" /><img src="https://img.shields.io/badge/cytoscape-F7DF1E?style=for-the-badge&logo=cytoscapedotjs&logoColor=000" /><img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=fff" />
