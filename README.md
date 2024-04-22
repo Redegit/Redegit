@@ -1,6 +1,6 @@
 # <img src="./img/webp/raccoon.webp">
 
-# Hello there<img height="20" style="display: inline;margin: auto .5em;" src="./img/webp/helloThere.webp">
+# Hello there <img height="25" src="./img/webp/helloThere.webp">
 
 My name is Dmitry and I am a 20 y.o. software developer. 
 
