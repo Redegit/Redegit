@@ -71,4 +71,3 @@ My name is Dmitry and I am a 20 y.o. software developer.
 <div align=center>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redegit&layout=donut&theme=github_dark">
 </div>
-
